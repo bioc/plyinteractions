@@ -4,7 +4,7 @@ Description: Operate on `GInteractions` objects as tabular data using
     `dplyr`-like verbs. The functions and methods in `plyinteractions`
     provide a grammatical approach to manipulate `GInteractions`, to 
     facilitate their integration in genomic analysis workflows. 
-Version: 1.12.0
+Version: 1.13.0
 Date: 2026-01-07
 Authors@R: 
     c(person("Jacques", "Serizay", , "jacquesserizay@gmail.com",
